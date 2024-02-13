@@ -1,0 +1,18 @@
+{
+  "Health": {
+    "Current": 100,
+    "Max": 100
+  },
+  "Stamina": {
+    "Current": 20,
+    "Max": 20
+  },
+  "Defense": 0,
+  "Success": 0,
+  "ForageXP": 0,
+  "HuntXP": 0,
+  "FishXP": 0,
+  "TrapXP": 0,
+  "FarmXP": 0,
+  "CraftXP": 0
+}
