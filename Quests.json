@@ -1,0 +1,40 @@
+{
+  "quest1": {
+    "title": "Explore this New World",
+    "message": "You notice is that you feel heavier. You determine that the gravity on this world is about 1.3x that of Earth.\nYou realize that this will effect your stamina. \nStamina is the energy necesssary to move and perform actions. Resting will recover stamina over time. Sleep at night will restore your Stamina to it's max. You can only sleep at your camp which right now is the cave.\nYou should to explore the area to see what landscapes are nearby and then return to camp.",
+    "XP": 50,
+    "requirement": {
+      "explore": 10
+    },
+    "incomplete": "You need to explore the area a bit more to learn your surroundings.",
+    "reward": {
+      "openForage": "1"
+    }
+  },
+  "quest2": {
+    "title": "Foraging for Necessities",
+    "intro": "Exploring the area helped give you an idea of your surroundings. Now you need to think about supplies.",
+    "message": "Your survival will depend on you obtaining basic necessities. You will need food, water, and shelter. To find these necessities, you will need to forage in nearby biomes. Each type of biome has certain items specific to it. To forage in a biome, click on the hand icon below.\nGive it a try. Explore nearby biomes and collect 10 different items. When you have them, return to camp.",
+    "XP": 75,
+    "requirement": {
+      "anyItem": 10
+    },
+    "incomplete": "You should forage for a few more items before continuing.",
+    "reward": {
+      "forageXP": 50
+    }
+  },
+  "quest3": {
+    "title": "Health and Food",
+    "intro": "You have foraged many items which is great. You may be able to craft some tools with them. However, you notice that you are hungry. That should be your next task.",
+    "message": "An important stat to watch is Health. Injury, dehydration, food poisoning and starvation all reduced your Health. This can affect you ability to forage, hunt, fish and farm.\nVarious foods can restore some of your Health. However, some food is poisonous and will reduce your health if eate it. \nLocate 5 food items and return to camp where you can examine whether it is edible or poisonous.",
+    "requirement": {
+      "location": "Camp",
+      "anyFood": 5
+    },
+    "incomplete": "You should gather up a little more food.",
+    "reward": {
+      "forageXP": 50
+    }
+  }
+}
