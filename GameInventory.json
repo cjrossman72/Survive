@@ -129,6 +129,38 @@
       "Mountain"
     ]
   },
+  "Plum": {
+    "level": 0,
+    "freq": "C",
+    "type": "Food",
+    "action": "Forage",
+    "desc": "These are plum delicious.",
+    "img": "Plum.png",
+    "tradeable": "N",
+    "amountItemsReq": 0,
+    "itemYield": 1,
+    "yield": [
+      "Plum",
+      1
+    ],
+    "forageXP": 44,
+    "huntXP": 0,
+    "mineXP": 0,
+    "fishXP": 0,
+    "craftXP": 0,
+    "farmXP": 0,
+    "health": 0,
+    "prosperity": 0,
+    "stamina": 0.25,
+    "defense": 0,
+    "biomes": [
+      "Plains",
+      "Grassland",
+      "Foothills",
+      "Forest",
+      "Mountain"
+    ]
+  },
   "Flint": {
     "level": 0,
     "freq": "C",
