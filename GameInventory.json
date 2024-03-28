@@ -131,7 +131,7 @@
   },
   "Plum": {
     "level": 0,
-    "freq": "C",
+    "freq": "U",
     "type": "Food",
     "action": "Forage",
     "desc": "These are plum delicious.",
@@ -163,7 +163,7 @@
   },
   "Flint": {
     "level": 0,
-    "freq": "C",
+    "freq": "U",
     "type": "Nature",
     "action": "Forage",
     "desc": "It can spark an idea.",
