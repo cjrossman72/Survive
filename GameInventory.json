@@ -30,7 +30,8 @@
       "Forest",
       "Tundra",
       "Desert",
-      "Mountain"
+      "Mountain",
+      "Ocean"
     ]
   },
   "Branch": {
@@ -222,7 +223,8 @@
       "Forest",
       "Tundra",
       "Desert",
-      "Mountain"
+      "Mountain",
+      "Ocean"
     ]
   },
   "Rock": {
@@ -256,7 +258,8 @@
       "Forest",
       "Tundra",
       "Desert",
-      "Mountain"
+      "Mountain",
+      "Ocean"
     ]
   },
   "Straw": {
