@@ -94,10 +94,7 @@
       1
     ],
     "reqSkill": "none",
-    "triggerXP": "0\"",
-    "earnedXP": 50,
-    "reqAction": "50",
-    "reqActionXP": "0\"",
+    "reqAction": 0,
     "Craft": 75,
     "notes": "Bone knife",
     "level": 1,
@@ -114,10 +111,7 @@
       1
     ],
     "reqSkill": "none",
-    "triggerXP": "0\"",
     "earnedXP": 75,
-    "reqAction": "75",
-    "reqActionXP": "80\"",
     "Craft": 50,
     "notes": "Campfire",
     "level": 1,
