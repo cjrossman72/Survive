@@ -74,7 +74,7 @@
     "earnedAction": "Forage",
     "earnedActionXP": 100,
     "level": 1,
-    "display": "Q"
+    "display": "N"
   },
   "Quest9": {
     "quest": "Difference in Gravity",
@@ -82,7 +82,7 @@
     "numItemsComplete": 0,
     "notes": "247",
     "level": 1,
-    "display": "?"
+    "display": "Q"
   },
   "Quest10": {
     "quest": "A Rainy Day",
