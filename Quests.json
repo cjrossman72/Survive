@@ -1,0 +1,149 @@
+{
+  "Quest1": {
+    "quest": "Leading a Full Life",
+    "img": "Bedroom.png",
+    "text1": "You are well respected professor, world renowned scientist and inventor. You have extensive knowledge in astronomy, chemistry, horticulture and physics. Your other talents include construction, wood working and mechanics. Because of your wide array of knowledge and talents, you are always in demand.",
+    "text2": "Right now, however, your only demand is for sleep so you settle into bed. Just as you are falling asleep, you feel something wash over your body almost like a waterfall but you don't feel wet. As the feeling passes, you sense that you are not in your bed anymore.",
+    "numItemsComplete": 0,
+    "notes": "no",
+    "level": 1,
+    "display": "Q"
+  },
+  "Quest2": {
+    "quest": "A Strange New World",
+    "numItemsComplete": 0,
+    "notes": "no",
+    "level": 1,
+    "display": "Q"
+  },
+  "Quest3": {
+    "quest": "Past and Present",
+    "img": "Cave2_pinksky.png",
+    "text1": "Your head begins to clears and you stand up. You realize that your intelligence and knowledge remain but you have no personal memories. It's as if your past life has been erased. That is something to ponder later. Right now you need to get yourself oriented.",
+    "text2": "You observe that you are standing on a gravel covered ground. In front of you is the narrow entrance to a cave. You look down and realize that the only clothes you are wearing are the t-shirt and shorts you wore to bed. You have no personal items on you; no watch, no wallet, no tools, nothing.",
+    "numItemsComplete": 0,
+    "notes": "no",
+    "level": 1,
+    "display": "Q"
+  },
+  "Quest4": {
+    "quest": "Naked and Afraid",
+    "img": "Landscape.png",
+    "text1": "You wonder about the weather here. You have no idea what the temperatures are on this world. It may get very cold at night. You make a mental note that will need clothes. You turn around to take in the world around you.",
+    "text2": "You see a wilderness of grass, trees and even mountains in the distance. A fear of the unknown passes over you but this is not a time to panic. You take a moment to calm down.",
+    "numItemsComplete": 0,
+    "notes": "no",
+    "level": 1,
+    "display": "Q"
+  },
+  "Quest5": {
+    "quest": "SURVIVE!",
+    "img": "Cave2_pinksky.png",
+    "text1": "Some primal survival instinct kicks in and you make a mental list of what you need to do. You will need supplies and food. You will also will need some sort of weapon to defend yourself against whatever or whoever might be a threat to you. First, you will need a safe place to stay.",
+    "text2": "You look again at the cave and decide it can serve as shelter for now assuming some animal is not already using it for his lair. Right now your only weapon is the pebbles at your feet.",
+    "numItemsComplete": 0,
+    "notes": "no",
+    "level": 1,
+    "display": "Q"
+  },
+  "Quest6": {
+    "quest": "Gather Wood",
+    "text1": "You bend down, scoop up a handful of pebbles and put them in your shorts pocket. You also notice a pile of wood by the cave entrance. Touch the pile to add it to your inventory. Then touch the cave entrance to enter the cave. Hopefully no animals are inside.",
+    "numItemsComplete": 0,
+    "earnedXP": 10,
+    "earnedAction": "Forage",
+    "earnedActionXP": 10,
+    "notes": "no",
+    "level": 1,
+    "display": "N"
+  },
+  "Quest7": {
+    "quest": "Leave the Cave",
+    "text1": "It is not a very big cave but you can sleep in here until you build something more permanent. You also notice a bunch of some type of berries to the right of the entrance. You should collect them. After doing that, touch the cave opening to leave the cave.",
+    "numItemsComplete": 0,
+    "earnedXP": 5,
+    "notes": "no",
+    "level": 1,
+    "display": "N"
+  },
+  "Quest8": {
+    "quest": "Forage for Items",
+    "img": "Map.png",
+    "text1": "You decide to explore the nearby area to see what you can find. You notice that one of the pebbles you picked up is chalky.  You tear off a small square of fabric from you t-shirt. You can use the chalk and the fabric to make a crude map as you explore. ",
+    "text2": "This will help you find your way back here to the cave. Of course, the map will be impossible to see after it gets dark so you decide that you need to return to the safety of the cave by nightfall. ",
+    "numItemsComplete": 0,
+    "earnedXP": 50,
+    "reqAction": "ForageXP",
+    "reqActionXP": 100,
+    "notes": "no",
+    "level": 1,
+    "display": "Q"
+  },
+  "Quest9": {
+    "quest": "Difference in Gravity",
+    "img": "Drop.png",
+    "text1": "After foraging for awhile, you feel drained. You feel more sluggish moving around than you would on your world. You stop to figure you why you feel like this.You take a couple of pebbles out of your pocket, stretch your arm out in front of you and let them drop from your hand. ",
+    "text2": "The pebbles plummet to the ground very quickly; much quicker than on your world. You repeat the experinent counting the seconds it takes for them to hit the ground and calculate that gravity is 1.3x more here than on your world.",
+    "numItemsComplete": 0,
+    "earnedXP": 100,
+    "notes": "no",
+    "level": 1,
+    "display": "Q"
+  },
+  "Quest10": {
+    "quest": "Taking a Rest",
+    "img": "Rest.png",
+    "text1": "All that exploring and foraging uses a lot of stamina. In time, you hope to gather enough food to keep up your stamina. But in yhe short term, you eill need to rest periodically. ",
+    "text2": "The cave is the best place to rest. However, you have a lot of work to do so you decide to only rest twice during the day. At night you can sleep and regain both your health and stamina.",
+    "numItemsComplete": 0,
+    "earnedXP": 25,
+    "notes": "Inside Cave",
+    "level": 1,
+    "display": "Q"
+  },
+  "Quest11": {
+    "quest": "Create a Knife",
+    "img": "Bone_knife.png",
+    "text1": "You have no idea what or WHO you might come across. It would be a good idea to craft some weapons. A knife will come in handy both for protection and as a general tool. Since you have no materials, you'll have to take the chance of exploring the area to forage for useful things.",
+    "text2": "The simplest knife to make would be a bone knife. Be on the lookout for a bone, a rock to sharpen the knife and a branch to use as a handle. When you have found them, return to the camp so you can craft the knife.",
+    "numItemsComplete": 1,
+    "itemsReq": [
+      "Bone knife",
+      1
+    ],
+    "earnedXP": 50,
+    "reqAction": "ForageXP",
+    "reqActionXP": 200,
+    "earnedAction": "Craft",
+    "earnedActionXP": 75,
+    "notes": "Camp",
+    "level": 1,
+    "display": "Q"
+  },
+  "Quest12": {
+    "quest": "Make a Campfire",
+    "img": "Campfire.png",
+    "text1": "When it gets dark, you will need to both keep warn and ward off dangerous animals. You need to make a campfire.",
+    "text2": "To make a campfire, you need 3 wood, a flint and a rock.",
+    "numItemsComplete": 1,
+    "itemsReq": [
+      "Campfire",
+      1
+    ],
+    "earnedXP": 75,
+    "earnedAction": "Craft",
+    "earnedActionXP": 50,
+    "notes": "Camp",
+    "level": 1,
+    "display": "Q"
+  },
+  "Quest13": {
+    "quest": "A Rainy Day",
+    "text1": "You notice the skies turning grey. Suddenly, it begins raining. This will make it harder to forage and will take more stamina. It would beca good idea to return to the cave where you can stay dry until the storm passes.",
+    "numItemsComplete": 0,
+    "earnedXP": 25,
+    "notes": "no",
+    "level": 1,
+    "display": "N"
+  }
+}
