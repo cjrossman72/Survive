@@ -33,18 +33,18 @@
       "Mountain"
     ]
   },
-  "Vince letter": {
+  "Letter": {
     "level": 0,
     "freq": "N",
     "type": "Letter",
     "action": "None",
     "desc": "The first letter from the mysterious Vince.",
-    "img": "VinceLetter.png",
+    "img": "Scroll.png",
     "tradeable": "N",
     "amountItemsReq": 0,
     "itemYield": 1,
     "yield": [
-      "Vince letter",
+      "Letter",
       1
     ],
     "forageXP": 0,
